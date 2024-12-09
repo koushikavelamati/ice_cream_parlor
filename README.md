@@ -34,4 +34,4 @@ This is a simple Python Flask application for a fictional ice cream parlor cafe.
    git clone https://github.com/yourusername/ice_cream_parlor.git
    cd ice_cream_parlor
 2. run command python app.py
-3. 
+
